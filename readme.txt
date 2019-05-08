@@ -7,7 +7,7 @@ g
 gg
 g
 g
-
+add  method
 
 g
 ggsdaasgdgbnbnn
